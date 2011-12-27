@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "name": "utf7-repl",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {
+    "iconv": ">=0.0.0"
+  },
+  "devDependencies": {}
+}
