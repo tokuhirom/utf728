@@ -1,0 +1,17 @@
+UTF8 to UTF7 conversion
+=======================
+
+Setup
+-----
+
+    % npm install
+
+Usage
+-----
+
+    % node utf728.js
+
+LICENSE
+-------
+
+Public domain.
